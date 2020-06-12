@@ -1,5 +1,5 @@
 (function(){
-	var names = ["Rahul", "Saket", "Jay", "Piyush", "James", "George", "Nisha", "Javed"];
+	var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 	for (var i = 0; i < names.length; i++) {
 
